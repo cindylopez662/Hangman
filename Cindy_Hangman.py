@@ -18,7 +18,7 @@ correct_guesses = []
 
 incorrect_guesses = []
 
-hangman_body = ['head', 'torso', 'leg1', 'leg2', 'arm1', 'arm2']
+hangman_body = ['head', 'torso', 'leg1', 'leg2', 'arm1', 'arm2', 'hair', 'foot1', 'foot2', 'eye1', 'eye2', 'smile']
 
 current_hangman = []
 
