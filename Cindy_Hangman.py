@@ -7,9 +7,9 @@ my_word_list = [
     ['s','u','n'],
     ['f', 'i', 'r', 'e'],
     ['m', 'a', 't', 't', 'e', 'r'],
-    ['j', 'u', 'n', 'g', 'k', 'o', 'o', 'k'],
     ['s','p','h','y','n','x'],
-    ['m','o','t','h','m','a','n']
+    ['m','o','t','h','m','a','n'],
+    ['l', 'e', 'm', 'o', 'n']
 ] 
 
 magic_word = random.choice(my_word_list)
